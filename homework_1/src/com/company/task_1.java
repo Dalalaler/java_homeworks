@@ -6,19 +6,17 @@ public class task_1 {
         int daynumber;
 
         do {
-            System.out.println("Enter the number of day (1-7): ");
+            System.out.println("Enter the day number (1-7): ");
             daynumber = intinput.get();
             if (daynumber < 1 || daynumber > 7) {
-                System.out.println("Incorrect the number of day.");
+                System.out.println("Incorrect day number .");
             }
-            else {
-                System.out.println("Correct the number of day.");
-            }
+
         } while (daynumber < 1 || daynumber > 7);
 
         System.out.println("Your day is: ");
 
-        switch (daynumber){
+        switch (daynumber) {
             case 1:
                 System.out.print("Monday");
                 break;
@@ -47,7 +45,7 @@ public class task_1 {
 
     }
 
-    }
+}
 
 
 

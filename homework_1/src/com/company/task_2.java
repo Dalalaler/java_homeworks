@@ -1,6 +1,6 @@
 package com.company;
 
-public class task_2 {
+class task_2 {
 
     public static void get() {
 
@@ -15,7 +15,7 @@ public class task_2 {
             System.out.println("Enter the second point: ");
             point2 = intinput.get();
             if (point1 == point2) {
-                System.out.println("Points must ne different.");
+                System.out.println("Points must be different.");
             }
 
         } while (point1 == point2); //Проверка, чтобы промежуток не оказался точкой
@@ -29,13 +29,11 @@ public class task_2 {
 
 
         if (variable < point1) {
-            System.out.println("Your variable is between -∞ and " + point1 );
-        }
-        else if (variable >= point1 & variable <= point2) {
+            System.out.println("Your variable is between -∞ and " + point1);
+        } else if (variable >= point1 & variable <= point2) {
             System.out.println("Your variable is between " + point1 + " and " + point2);
-        }
-        else {
-            System.out.println("Your variable is between " + point2 + " and +∞" );
+        } else {
+            System.out.println("Your variable is between " + point2 + " and +∞");
         }
 
 
