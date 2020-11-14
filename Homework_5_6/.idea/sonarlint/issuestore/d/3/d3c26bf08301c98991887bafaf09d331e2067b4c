@@ -1,0 +1,25 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "result".(Í‘ÿŠûÿÿÿÿ8ÖÀ¢²Ü.
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ùêâ“ıÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ùêâ“ıÿÿÿÿ
+M
+java:S1481"+Remove this unused "result" local variable.(Í‘ÿŠûÿÿÿÿ8ÖÀ¢²Ü.
+U
+java:S1128	"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8ş²¢³Ü.
+Q
+java:S3740"/Provide the parametrized type for this generic.(£íó‹ÿÿÿÿÿ8©ëÏ±Ü.
+Q
+java:S37401"/Provide the parametrized type for this generic.(ÃÌßøÿÿÿÿ8©ëÏ±Ü.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(œû¿Ø
+Q
+java:S3740("/Provide the parametrized type for this generic.(ÃÌßøÿÿÿÿ8©ëÏ±Ü.
+[
+java:S1854"9Remove this useless assignment to local variable "tasks".(£íó‹ÿÿÿÿÿ8—í§²Ü.
+S	java:S106."9Replace this use of System.out or System.err by a logger.(›çÇèüÿÿÿÿ
+L
+java:S3740"/Provide the parametrized type for this generic.(ş±”Ú8©ëÏ±Ü.
+M
+java:S1128"+Remove this unused import 'enums.priority'.(¦ô‡şÿÿÿÿ8ş²¢³Ü.
