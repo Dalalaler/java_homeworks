@@ -1,0 +1,18 @@
+
+L
+java:S3740!"/Provide the parametrized type for this generic.(°ÕàÚ8íßÍÄÜ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—ıÒá
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8‚é­ÅÜ.
+L
+java:S3740"/Provide the parametrized type for this generic.(Î–Ô¡8ÄÖÊÄÜ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(€­±Ûşÿÿÿÿ8¬»Â²Ü.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(—ıÒá8…ñš²Ü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŸ‰¯øÿÿÿÿ8ñşİÄÜ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¿ó§J8®Æ ²Ü.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ùêâ“ıÿÿÿÿ8íßÍÄÜ.
+”
+java:S1319"wThe type of the "tasksToWrite" object should be an interface such as "List" rather than the implementation "ArrayList".(Î–Ô¡8ÄÖÊÄÜ.
+\	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8‚é­ÅÜ.

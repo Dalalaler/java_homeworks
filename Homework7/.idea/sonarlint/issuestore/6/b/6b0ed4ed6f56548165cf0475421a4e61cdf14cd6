@@ -1,0 +1,50 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö¥°»øÿÿÿÿ
+n
+java:S1104a"QMake task6 a static final constant or non-public and provide accessors if needed.(«ñ—Ô8ö­ÄÜ.
+K
+java:S2140b")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8ö­ÄÜ.
+H
+java:S1444*"+Make this "public static task3" field final(ˆ¤“”8ëµëÃÜ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ö¥°»øÿÿÿÿ8şÙ‚ÅÜ.
+K
+java:S2140;")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8ö­ÄÜ.
+Q
+java:S3740K"/Provide the parametrized type for this generic.(—èˆÄÿÿÿÿÿ8š‚’ÄÜ.
+K
+java:S2140L")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8ö­ÄÜ.
+Q
+java:S3740:"/Provide the parametrized type for this generic.(’µ³Ãıÿÿÿÿ8µŠÄÜ.
+L
+java:S3740a"/Provide the parametrized type for this generic.(«ñ—Ô8€€ÄÜ.
+s
+java:S1104"QMake task1 a static final constant or non-public and provide accessors if needed.(ÆÎØÓüÿÿÿÿ8ØäéÁÜ.
+n
+java:S1104*"QMake task3 a static final constant or non-public and provide accessors if needed.(ˆ¤“”8ëµëÃÜ.
+M
+java:S1444"+Make this "public static task2" field final(®Ë­¤ùÿÿÿÿ8Ğá˜ÂÜ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÆÎØÓüÿÿÿÿ8ÁàæÁÜ.
+M
+java:S1444:"+Make this "public static task4" field final(’µ³Ãıÿÿÿÿ8ÈÙŠÄÜ.
+s
+java:S1104:"QMake task4 a static final constant or non-public and provide accessors if needed.(’µ³Ãıÿÿÿÿ8ÈÙŠÄÜ.
+M
+java:S1444"+Make this "public static task1" field final(ÆÎØÓüÿÿÿÿ8Á¸ïÁÜ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÆÎØÓüÿÿÿÿ8ÁàæÁÜ.
+s
+java:S1104K"QMake task5 a static final constant or non-public and provide accessors if needed.(—èˆÄÿÿÿÿÿ8š‚’ÄÜ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(®Ë­¤ùÿÿÿÿ8°«˜ÂÜ.
+L
+java:S3740*"/Provide the parametrized type for this generic.(ˆ¤“”8ç‡ëÃÜ.
+M
+java:S1444K"+Make this "public static task5" field final(—èˆÄÿÿÿÿÿ8š‚’ÄÜ.
+s
+java:S1104"QMake task2 a static final constant or non-public and provide accessors if needed.(®Ë­¤ùÿÿÿÿ8Ğá˜ÂÜ.
+K
+java:S2140+")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8ö­ÄÜ.
+H
+java:S1444a"+Make this "public static task6" field final(«ñ—Ô8ö­ÄÜ.

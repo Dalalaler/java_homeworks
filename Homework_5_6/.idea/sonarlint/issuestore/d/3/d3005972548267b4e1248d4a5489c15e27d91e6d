@@ -1,0 +1,21 @@
+
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÍäÂÈÜ.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Éßê­úÿÿÿÿ8Ã³ŸÇÜ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(üœ€Áùÿÿÿÿ8¤Æ¢ÆÜ.
+Q
+java:S37408"/Provide the parametrized type for this generic.(æÙß™úÿÿÿÿ8¶†¤ÇÜ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ôßÃ¤úÿÿÿÿ8î¤•ÇÜ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üœ€Áùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ä»çıÿÿÿÿ8ÃûıÆÜ.
+U
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8òƒ¨ÇÜ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŠÈI8ûÄ‚ÇÜ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(í±’êıÿÿÿÿ8Œ…‰ÇÜ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¼‡¶ıÿÿÿÿ8ÿŸÏÇÜ.
+K
+java:S21409")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8¶†¤ÇÜ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(“®ïË8ÕãœÈÜ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Ø©Â8Û…ÇÜ.
