@@ -13,3 +13,13 @@ G
 src/main/java/main.java,d\3\d3c26bf08301c98991887bafaf09d331e2067b4c
 T
 $src/main/java/data_pattern/task.java,0\f\0f1d4bcf42b8305725206989d48f40a7311fa8e7
+@
+Homework_5_6.iml,6\1\616730608d6c261ebe79507f14989938b87d0f14
+S
+#src/main/java/data/stringinput.java,2\2\228da5673b6658f7e1b8e7434aa1277e15dd2706
+P
+ src/main/java/data/intinput.java,b\c\bc21876c611903f197788e25e72a512664abcdf9
+V
+&src/main/java/data/dataToGenerate.java,6\b\6b0ed4ed6f56548165cf0475421a4e61cdf14cd6
+W
+'src/main/java/data/dataFromConsole.java,d\3\d3005972548267b4e1248d4a5489c15e27d91e6d
