@@ -1,0 +1,16 @@
+
+’
+java:S1319"wThe type of the "tasksToWrite" object should be an interface such as "List" rather than the implementation "ArrayList".(àÍ¹­úÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ùêâ“ıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÉŸ‰¯øÿÿÿÿ
+U	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Œà´‹
+J
+java:S3740"/Provide the parametrized type for this generic.(ŠêÌ¦ıÿÿÿÿ
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(àÍ¹­úÿÿÿÿ
+E
+java:S3740#"/Provide the parametrized type for this generic.(‚„”ˆ
