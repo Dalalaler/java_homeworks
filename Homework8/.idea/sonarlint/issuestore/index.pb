@@ -33,3 +33,5 @@ S
 #src/main/java/datapattern/Task.java,7\1\71337b27fb50639371d72ee5432e312cadfb712c
 W
 'src/main/java/data/DataFromConsole.java,0\8\08aa16484ca41d1b823959f6a1bbf21c74a3a018
+\
+,src/main/java/datasteams/DataStreamUtil.java,2\d\2dae0263fb886090ca0f1e6cbe7a6f5000ff9dcb
