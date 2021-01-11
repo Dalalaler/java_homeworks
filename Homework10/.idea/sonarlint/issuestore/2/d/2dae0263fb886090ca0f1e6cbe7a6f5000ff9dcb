@@ -1,28 +1,28 @@
 
+M	java:S106"9Replace this use of System.out or System.err by a logger.(êıè
+P
+java:S2209"5Change this instance-reference to a static reference.(İÖ‚­ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÄÜş
+G
+java:S1612$",Replace this lambda with a method reference.(Åòé­úÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Î¸À˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¹°†
+J
+java:S3740"/Provide the parametrized type for this generic.(½³ğúÿÿÿÿ
 ‹
 java:S1319"pThe type of the "tasks" object should be an interface such as "List" rather than the implementation "ArrayList".(½³ğúÿÿÿÿ
 E
 java:S3740
 "/Provide the parametrized type for this generic.(ñ’ä‘
-J
-java:S3740"/Provide the parametrized type for this generic.(½³ğúÿÿÿÿ
 B
 java:S1612",Replace this lambda with a method reference.(ÂÄÜş
-G
-java:S1612$",Replace this lambda with a method reference.(Åòé­úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½İÍ¥ÿÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÚÍ
+=
+java:S3010""Remove this assignment of "tasks".(İÖ‚­ùÿÿÿÿ
 G
 java:S1612$",Replace this lambda with a method reference.(Åòé­úÿÿÿÿ
 8
 java:S1118"Hide this public constructor.(½³ğúÿÿÿÿ
-=
-java:S3010""Remove this assignment of "tasks".(İÖ‚­ùÿÿÿÿ
-P
-java:S2209"5Change this instance-reference to a static reference.(İÖ‚­ùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÄÜş
-M	java:S106"9Replace this use of System.out or System.err by a logger.(êıè
-S	java:S106"9Replace this use of System.out or System.err by a logger.(½İÍ¥ÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¹°†
 N	java:S106"9Replace this use of System.out or System.err by a logger.(©ö¥½
 S	java:S106$"9Replace this use of System.out or System.err by a logger.(Åòé­úÿÿÿÿ
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÚÍ
-N	java:S106."9Replace this use of System.out or System.err by a logger.(Î¸À˜

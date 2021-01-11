@@ -35,3 +35,19 @@ W
 'src/main/java/data/DataFromConsole.java,0\8\08aa16484ca41d1b823959f6a1bbf21c74a3a018
 \
 ,src/main/java/datasteams/DataStreamUtil.java,2\d\2dae0263fb886090ca0f1e6cbe7a6f5000ff9dcb
+L
+src/main/resources/data.json,2\a\2aead2c7b1e07e7d4fbd8ad7349ad9729ce03ce3
+H
+target/classes/data.json,e\f\efa401dbbc7d2f7aaef92f146ee2c97bb48aaeef
+Q
+!src/main/resources/dataserialized,d\c\dcbd085630ef636dac08e3588b51cddb04bd71b7
+M
+target/classes/dataserialized,d\6\d66a17324efdc18efdbd4b8e610cd3ea406121ec
+>
+Homework10.iml,d\5\d5e8e8e2bb92c13e24c64bc44cd6e07f6e0f8023
+S
+#src/main/resources/sorted_data.json,f\f\fff637bc85d0e9be31b116ec737df8980be77cd9
+O
+target/classes/sorted_data.json,4\0\40f396ab5402c56da2f65eb55429aebd59ca7fd4
+c
+3src/main/java/dataserializable/SerializeToFile.java,1\8\18a3d54a54db6cd0ca353ca64b84a404e1e7e46d

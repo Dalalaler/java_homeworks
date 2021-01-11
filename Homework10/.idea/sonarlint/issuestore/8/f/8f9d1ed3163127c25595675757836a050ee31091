@@ -1,49 +1,49 @@
 
-Q
-java:S3740"/Provide the parametrized type for this generic.(¦È¬ëøÿÿÿÿ8¶‹ÏÁá.
-G
-java:S1444;"+Make this "public static task4" field final(ÍÀ±V8—öóÀá.
-n
-java:S1104+"QMake task3 a static final constant or non-public and provide accessors if needed.(©æèô8—öóÀá.
+M
+java:S1444"+Make this "public static task1" field final(¦È¬ëøÿÿÿÿ8²ÒŠæ.
+M
+java:S1444"+Make this "public static task2" field final(Êó½ûÿÿÿÿ8²ÒŠæ.
 H
-java:S1444+"+Make this "public static task3" field final(©æèô8—öóÀá.
-s
-java:S1104"QMake task1 a static final constant or non-public and provide accessors if needed.(¦È¬ëøÿÿÿÿ8—öóÀá.
-Q
-java:S3740"/Provide the parametrized type for this generic.(Êó½ûÿÿÿÿ8¶‹ÏÁá.
-L
-java:S3740+"/Provide the parametrized type for this generic.(©æèô8¶‹ÏÁá.
-\
-java:S1118":Add a private constructor to hide the implicit public one.(ıèÌ øÿÿÿÿ8—öóÀá.
-m
-java:S1104b"QMake task6 a static final constant or non-public and provide accessors if needed.(¡ßÚt8—öóÀá.
-M
-java:S1444"+Make this "public static task2" field final(Êó½ûÿÿÿÿ8—öóÀá.
-M
-java:S1444L"+Make this "public static task5" field final(ú·»Áøÿÿÿÿ8—öóÀá.
-Q
-java:S3740"/Provide the parametrized type for this generic.(¦È¬ëøÿÿÿÿ8¶‹ÏÁá.
-K
-java:S3740b"/Provide the parametrized type for this generic.(¡ßÚt8¶‹ÏÁá.
-K
-java:S2140M")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8—öóÀá.
-K
-java:S3740;"/Provide the parametrized type for this generic.(ÍÀ±V8¶‹ÏÁá.
-M
-java:S1444"+Make this "public static task1" field final(¦È¬ëøÿÿÿÿ8—öóÀá.
+java:S1444+"+Make this "public static task3" field final(©æèô8²ÒŠæ.
 G
-java:S1444b"+Make this "public static task6" field final(¡ßÚt8—öóÀá.
-K
-java:S2140,")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8—öóÀá.
-K
-java:S2140<")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8—öóÀá.
-K
-java:S2140c")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8—öóÀá.
-s
-java:S1104"QMake task2 a static final constant or non-public and provide accessors if needed.(Êó½ûÿÿÿÿ8—öóÀá.
-m
-java:S1104;"QMake task4 a static final constant or non-public and provide accessors if needed.(ÍÀ±V8—öóÀá.
+java:S1444;"+Make this "public static task4" field final(ÍÀ±V8²ÒŠæ.
+M
+java:S1444L"+Make this "public static task5" field final(ú·»Áøÿÿÿÿ8²ÒŠæ.
+G
+java:S1444b"+Make this "public static task6" field final(¡ßÚt8²ÒŠæ.
 Q
-java:S3740L"/Provide the parametrized type for this generic.(ú·»Áøÿÿÿÿ8¶‹ÏÁá.
+java:S3740"/Provide the parametrized type for this generic.(¦È¬ëøÿÿÿÿ8²ÒŠæ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(¦È¬ëøÿÿÿÿ8²ÒŠæ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Êó½ûÿÿÿÿ8²ÒŠæ.
+L
+java:S3740+"/Provide the parametrized type for this generic.(©æèô8²ÒŠæ.
+K
+java:S3740;"/Provide the parametrized type for this generic.(ÍÀ±V8²ÒŠæ.
+Q
+java:S3740L"/Provide the parametrized type for this generic.(ú·»Áøÿÿÿÿ8²ÒŠæ.
+K
+java:S3740b"/Provide the parametrized type for this generic.(¡ßÚt8²ÒŠæ.
 s
-java:S1104L"QMake task5 a static final constant or non-public and provide accessors if needed.(ú·»Áøÿÿÿÿ8—öóÀá.
+java:S1104"QMake task1 a static final constant or non-public and provide accessors if needed.(¦È¬ëøÿÿÿÿ8²ÒŠæ.
+s
+java:S1104"QMake task2 a static final constant or non-public and provide accessors if needed.(Êó½ûÿÿÿÿ8²ÒŠæ.
+n
+java:S1104+"QMake task3 a static final constant or non-public and provide accessors if needed.(©æèô8²ÒŠæ.
+m
+java:S1104;"QMake task4 a static final constant or non-public and provide accessors if needed.(ÍÀ±V8²ÒŠæ.
+s
+java:S1104L"QMake task5 a static final constant or non-public and provide accessors if needed.(ú·»Áøÿÿÿÿ8²ÒŠæ.
+m
+java:S1104b"QMake task6 a static final constant or non-public and provide accessors if needed.(¡ßÚt8²ÒŠæ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ıèÌ øÿÿÿÿ8²ÒŠæ.
+K
+java:S2140,")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8²ÒŠæ.
+K
+java:S2140<")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8²ÒŠæ.
+K
+java:S2140M")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8²ÒŠæ.
+K
+java:S2140c")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8²ÒŠæ.
