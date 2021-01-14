@@ -1,16 +1,16 @@
 
-L
-java:S37407"/Provide the parametrized type for this generic.(Şä‰8²ÒŠæ.
-W
-java:S1118":Add a private constructor to hide the implicit public one.(¿Í8²ÒŠæ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ä»çıÿÿÿÿ8²ÒŠæ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŠÈI8²ÒŠæ.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¼‡¶ıÿÿÿÿ8²ÒŠæ.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(“®ïË8²ÒŠæ.
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(í±’êıÿÿÿÿ8²ÒŠæ.
-U	java:S106("9Replace this use of System.out or System.err by a logger.(Ø©Â8²ÒŠæ.
 Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ôßÃ¤úÿÿÿÿ8²ÒŠæ.
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Éßê­úÿÿÿÿ8²ÒŠæ.
 K
 java:S21408")Use "java.util.Random.nextInt()" instead.(äÔˆáûÿÿÿÿ8²ÒŠæ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ø©Â8²ÒŠæ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÊŠÈI8²ÒŠæ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Éßê­úÿÿÿÿ8²ÒŠæ.
+L
+java:S37407"/Provide the parametrized type for this generic.(Şä‰8²ÒŠæ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ä»çıÿÿÿÿ8²ÒŠæ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¼‡¶ıÿÿÿÿ8²ÒŠæ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(í±’êıÿÿÿÿ8²ÒŠæ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¿Í8²ÒŠæ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(“®ïË8²ÒŠæ.

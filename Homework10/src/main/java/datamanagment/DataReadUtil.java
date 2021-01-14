@@ -13,7 +13,6 @@ import java.util.ArrayList;
 public class DataReadUtil {
 
 
-
     public static ArrayList readFromFile(String fileName) throws DataReadException {
         String jsonString;
         ObjectMapper mapper = new ObjectMapper();
@@ -27,13 +26,6 @@ public class DataReadUtil {
         } catch (IOException exc) {
             throw new DataReadException();
         }
-
-
-        System.out.println("\n_______________________\n" + "Data that read from data.json\n" + "_______________________\n");
-        for (Task currentTask : Tasks) {
-            System.out.println(currentTask);
-        }
         return Tasks;
-
     }
 }

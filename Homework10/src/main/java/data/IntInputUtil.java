@@ -15,7 +15,7 @@ public class IntInputUtil {
                 x = i.nextInt();
                 out = true;
             } else {
-                System.out.println("Incorrect type. Only integer allowed.");
+
                 i = new Scanner(System.in);
             }
         }

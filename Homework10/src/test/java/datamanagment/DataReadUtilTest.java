@@ -9,7 +9,7 @@ public class DataReadUtilTest {
 
     @Test(expected = DataReadException.class)
     public void readFromFile() throws DataReadException {
-        String fileName = ".\\src\\main\\resources\\data.json";
+        String fileName = ".\\src\\main\\resources\\data1.json";
         DataReadUtil.readFromFile(fileName);
     }
 }

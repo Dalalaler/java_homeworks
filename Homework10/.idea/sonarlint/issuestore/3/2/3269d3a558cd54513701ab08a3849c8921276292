@@ -1,16 +1,12 @@
 
 L
-java:S3740"/Provide the parametrized type for this generic.(ëí‡©8üÑ¶‰æ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(ŒÎ®åùÿÿÿÿ8üÑ¶‰æ.
-K
-java:S3740"/Provide the parametrized type for this generic.(êù¡t8üÑ¶‰æ.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ùêâ“ıÿÿÿÿ8üÑ¶‰æ.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎ®åùÿÿÿÿ8üÑ¶‰æ.
+java:S3740"/Provide the parametrized type for this generic.(ëí‡©8üÑ¶‰æ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÎ®åùÿÿÿÿ8üÑ¶‰æ.
 V
-java:S1118":Add a private constructor to hide the implicit public one.(´³Î8üÑ¶‰æ.
-Q
-java:S3740!"/Provide the parametrized type for this generic.(ê‡¢£ûÿÿÿÿ8üÑ¶‰æ.
+java:S1118":Add a private constructor to hide the implicit public one.(´³Î8´Êæï.
 
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëí‡©8üÑ¶‰æ.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÄÚ±Å8üÑ¶‰æ.
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëí‡©8üÑ¶‰æ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ŒÎ®åùÿÿÿÿ8üÑ¶‰æ.
+K
+java:S3740"/Provide the parametrized type for this generic.(êù¡t8üÑ¶‰æ.

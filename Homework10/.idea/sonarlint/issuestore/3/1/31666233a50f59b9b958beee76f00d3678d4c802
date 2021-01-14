@@ -1,0 +1,26 @@
+
+e
+java:S1854¬"BRemove this useless assignment to local variable "sortedFileName".(‡½íãıÿÿÿÿ8³®ğïï.
+>
+java:S1604["(Make this anonymous inner class a lambda(–—›¿
+E
+java:S1604a"(Make this anonymous inner class a lambda(…ÖĞ’8¶®ìï.
+^	java:S125®"<This block of commented-out lines of code should be removed.(‘ä øÿÿÿÿ8Æº—ñï.
+C
+java:S1604&"(Make this anonymous inner class a lambda(Ø¬ëêÿÿÿÿÿ
+\	java:S899*";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Ñ†²ñï.
+p
+java:S4042*"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Ñ†²ñï.
+C
+java:S1604j"(Make this anonymous inner class a lambda(åÅŞôüÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(¶ÖÙğ
+r
+java:S3008"PRename this field "Tasks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûˆáûÿÿÿÿ8”éãåï.
+V
+java:S1481¬"3Remove this unused "sortedFileName" local variable.(‡½íãıÿÿÿÿ8³®ğïï.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ûˆáûÿÿÿÿ8ğ¢âåï.
+Q
+java:S3740+"/Provide the parametrized type for this generic.(ê‡¢£ûÿÿÿÿ8Ø×ğï.
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ü¡§Ãùÿÿÿÿ

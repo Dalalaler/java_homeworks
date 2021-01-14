@@ -26,12 +26,28 @@ public class DataWriteUtil {
         }
     }
 
+    public static void writeAllTasksInFile(String fileName, ArrayList<Task> tasksToWrite) throws IOException, DataWriteException {
+        StringWriter writer = new StringWriter();
+        ObjectMapper mapper = new ObjectMapper();
+
+        for (Task currentTask : tasksToWrite) {
+            mapper.writeValue(writer, currentTask);
+            String jsonString = writer.toString();
+            try (FileWriter fw = new FileWriter(fileName, true)) {
+                fw.write(jsonString + '\n');
+            } catch (IOException exc) {
+                throw new DataWriteException();
+            }
+        }
+
+
+    }
+
+
     public static void writeSortedInFile(String fileName, ArrayList<Task> tasksToWrite) throws IOException, DataWriteException {
         File file = new File(fileName);
         file.delete();
         Collections.sort(tasksToWrite);
-        System.out.println("\n_______________________\n" + "Sorted by a date Tasks\n" + "Writed in sorted_data.json\n"
-                + "_______________________\n");
         for (Task currentTask : tasksToWrite) {
             System.out.println(currentTask);
             writeInFile(fileName, currentTask);

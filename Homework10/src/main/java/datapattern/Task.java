@@ -1,8 +1,14 @@
 package datapattern;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import data.StringInputUtil;
 import enums.Category;
 import enums.Priority;
+
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Objects;
@@ -17,7 +23,32 @@ public class Task<T> implements Comparable<Task> {
     private double hoursToComplete;
     private Priority taskPriority;
     private Category taskCategory;
+    private String DateToCompleteString;
 
+
+    public void setTaskName(String taskName) {
+        this.taskName = taskName;
+    }
+
+    public void setTaskDescription(String[] taskDescription) {
+        this.taskDescription = taskDescription;
+    }
+
+    public void setDateToComplete(Calendar dateToComplete) {
+        this.dateToComplete = dateToComplete;
+    }
+
+    public void setHoursToComplete(double hoursToComplete) {
+        this.hoursToComplete = hoursToComplete;
+    }
+
+    public void setTaskPriority(Priority taskPriority) {
+        this.taskPriority = taskPriority;
+    }
+
+    public void setTaskCategory(Category taskCategory) {
+        this.taskCategory = taskCategory;
+    }
 
 
 
@@ -49,6 +80,10 @@ public class Task<T> implements Comparable<Task> {
     public Calendar getDateToComplete() {
         return dateToComplete;
     }
+
+
+
+
 
     public static class Builder<T> {
         private Task newTask;
@@ -86,7 +121,8 @@ public class Task<T> implements Comparable<Task> {
             newTask.dateToComplete = dateToComplete;
             return this;
         }
-        public Builder withTaskCategory(Category taskCategory){
+
+        public Builder withTaskCategory(Category taskCategory) {
             newTask.taskCategory = taskCategory;
             return this;
         }
@@ -95,6 +131,7 @@ public class Task<T> implements Comparable<Task> {
             return newTask;
         }
     }
+
 
     @Override
     public int hashCode() {
@@ -106,7 +143,6 @@ public class Task<T> implements Comparable<Task> {
     @Override
     public boolean equals(Object o) {
         Task<?> test = (Task<?>) o;
-
 
 
         return this.taskName.equals(test.getTaskName());
