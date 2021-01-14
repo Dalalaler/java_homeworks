@@ -33,9 +33,9 @@ public class MainWindow extends JFrame {
 
     private JMenu createFileMenu()
     {
-        // Создание выпадающего меню
+
         JMenu file = new JMenu("Файл");
-        // Пункт меню "Открыть" с изображением
+
         JMenuItem open = new JMenuItem("Открыть");
         JMenuItem save = new JMenuItem("Сохранить");
         JMenuItem close = new JMenuItem("Закрыть");
@@ -90,7 +90,7 @@ public class MainWindow extends JFrame {
 
     private JMenu createTaskMenu()
     {
-        // Создание выпадающего меню
+
         JMenu file = new JMenu("Задача");
         // Пункт меню "Открыть" с изображением
         JMenuItem create = new JMenuItem("Создать");
@@ -98,15 +98,15 @@ public class MainWindow extends JFrame {
         JMenuItem find = new JMenuItem("Поиск");
 
         file.add(create);
-        // Добавление разделителя
+
         file.addSeparator();
 
         file.add(sort);
-        // Добавление разделителя
+
         file.addSeparator();
 
         file.add(find);
-        // Добавление разделителя
+
         file.addSeparator();
 
         create.addActionListener(new ActionListener() {
@@ -143,21 +143,21 @@ public class MainWindow extends JFrame {
 
        if(fileName != "default") {  //Меню
             JMenuBar menuBar = new JMenuBar();
-            // Добавление в главное меню выпадающих пунктов меню
+
             menuBar.add(createFileMenu());
             menuBar.add(createTaskMenu());
 
-            // Подключаем меню к интерфейсу приложения
+
             setJMenuBar(menuBar);
 
-            // Левая панель
+
             leftPanel = new JPanel(new VerticalLayout());
             leftPanel.add(new JLabel("СПИСОК ЗАДАЧ"));
 
 
             leftPanel.setBackground(Color.lightGray);
 
-            // Правая панель
+
             rightPanel = new JPanel(new VerticalLayout());
 
 
@@ -167,17 +167,17 @@ public class MainWindow extends JFrame {
             ShowTaskList.addTaskLists(leftPanel, rightPanel, this, Tasks);
 
 
-            // Создание разделяемой панели
+
             final JSplitPane splitHorizontal = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, leftPanel, rightPanel);
             splitHorizontal.setOneTouchExpandable(true);
-            // Размер разделяемой панели
+
             splitHorizontal.setDividerSize(14);
-            // Положение разделяемой панели
+
             splitHorizontal.setDividerLocation(dividerMain);
-            // Текстовая метка для главной панели
+
             splitHorizontal.setLeftComponent(new JScrollPane(leftPanel));
             splitHorizontal.setRightComponent(new JScrollPane(rightPanel));
-            // Размещение панели в интерфейсе и вывод окна на экран
+
             getContentPane().add(splitHorizontal);
             setSize(1366, 768);
             setVisible(true);

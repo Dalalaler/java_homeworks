@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Á×”ùÿÿÿÿ
+E
+java:S1604)"(Make this anonymous inner class a lambda(Î„“±8Ö¥µöï.
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(Í€“„
+g	java:S116"RRename this field "FILTERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡½‡â
+i
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ8Úºöï.
+b
+java:S2259]"GA "NullPointerException" could be thrown; "extension" is nullable here.(™…§ıÿÿÿÿÿ

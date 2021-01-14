@@ -19,7 +19,7 @@ public class TaskDescAndChange {
 
     public static void showTaskDesc(final JPanel leftPanel, final JPanel rightPanel, final JFrame fatherFrame,
                                     Task currentTask, ArrayList<Task> Tasks) {
-        // Создание текстовых полей
+
         JLabel taskNameLabel = new JLabel("Введите имя задачи:");
         JTextField taskName = new JTextField(85);
         taskName.setText(currentTask.getTaskName());
@@ -134,7 +134,7 @@ public class TaskDescAndChange {
             }
         });
 
-        // Создание панели с текстовыми полями
+
         rightPanel.removeAll();
         rightPanel.add(taskNameLabel);
         rightPanel.add(taskName);

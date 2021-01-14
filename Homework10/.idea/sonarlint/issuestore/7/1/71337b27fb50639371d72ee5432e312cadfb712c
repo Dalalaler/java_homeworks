@@ -1,44 +1,44 @@
 
-N
-java:S1128
-"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ó¾Şæï.
-T
-java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ó¾Şæï.
-Q
-java:S3740Y"/Provide the parametrized type for this generic.(µ·°£ùÿÿÿÿ8ÿÀ¶Šæ.
-Q
-java:S3740d"/Provide the parametrized type for this generic.(ìãšËüÿÿÿÿ8ÿÀ¶Šæ.
-S
-java:S1128"1Remove this unused import 'data.StringInputUtil'.(şê‚üÿÿÿÿÿ8•öÚæï.
-Q
-java:S3740\"/Provide the parametrized type for this generic.(÷¦„ÿÿÿÿÿ8ÿÀ¶Šæ.
-L
-java:S3740n"/Provide the parametrized type for this generic.(ØŒ‹»8ÿÀ¶Šæ.
 o
 java:S1128"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnoreProperties'.(ô’ˆî8áˆçğï.
-B
-java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿ8ÿÀ¶Šæ.
-^	java:S125–"<This block of commented-out lines of code should be removed.(ÓëÏúÿÿÿÿ8ÿÀ¶Šæ.
-K
-java:S3740s"/Provide the parametrized type for this generic.(õ˜ì8ÿÀ¶Šæ.
 L
-java:S3740x"/Provide the parametrized type for this generic.(àŞØ8ÿÀ¶Šæ.
+java:S3740}"/Provide the parametrized type for this generic.(ĞÜ–8ÿÀ¶Šæ.
+S
+java:S1128"1Remove this unused import 'data.StringInputUtil'.(şê‚üÿÿÿÿÿ8•öÚæï.
 L
-java:S3740‚"/Provide the parametrized type for this generic.(¢ú¯y8ÿÀ¶Šæ.
+java:S3740n"/Provide the parametrized type for this generic.(ØŒ‹»8ÿÀ¶Šæ.
+Q
+java:S3740d"/Provide the parametrized type for this generic.(ìãšËüÿÿÿÿ8ÿÀ¶Šæ.
 e
 java:S2259”"BA "NullPointerException" could be thrown; "test" is nullable here.(†ª“»ıÿÿÿÿ8ÿÀ¶Šæ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(¶òäÔşÿÿÿÿ8ÿÀ¶Šæ.
 U
 java:S1197"8Move the array designator from the variable to the type.(½õÖÛ8ÿÀ¶Šæ.
-L
-java:S3740_"/Provide the parametrized type for this generic.(Àë³Ë8ÿÀ¶Šæ.
+^	java:S125–"<This block of commented-out lines of code should be removed.(ÓëÏúÿÿÿÿ8ÿÀ¶Šæ.
+B
+java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿ8ÿÀ¶Šæ.
+Q
+java:S3740\"/Provide the parametrized type for this generic.(÷¦„ÿÿÿÿÿ8ÿÀ¶Šæ.
 Z
 java:S1068"8Remove this unused "DateToCompleteString" private field.(ÅÇ˜ıÿÿÿÿ8Áàéğï.
 L
-java:S3740i"/Provide the parametrized type for this generic.(ªÁöù8ÿÀ¶Šæ.
-Q
-java:S3740"/Provide the parametrized type for this generic.(¶òäÔşÿÿÿÿ8ÿÀ¶Šæ.
-€	java:S116"_Rename this field "DateToCompleteString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇ˜ıÿÿÿÿ8Áàéğï.
+java:S3740_"/Provide the parametrized type for this generic.(Àë³Ë8ÿÀ¶Šæ.
 L
-java:S3740}"/Provide the parametrized type for this generic.(ĞÜ–8ÿÀ¶Šæ.
+java:S3740‚"/Provide the parametrized type for this generic.(¢ú¯y8ÿÀ¶Šæ.
+L
+java:S3740x"/Provide the parametrized type for this generic.(àŞØ8ÿÀ¶Šæ.
+N
+java:S1128
+"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ó¾Şæï.
+Q
+java:S3740Y"/Provide the parametrized type for this generic.(µ·°£ùÿÿÿÿ8ÿÀ¶Šæ.
+L
+java:S3740i"/Provide the parametrized type for this generic.(ªÁöù8ÿÀ¶Šæ.
+K
+java:S3740s"/Provide the parametrized type for this generic.(õ˜ì8ÿÀ¶Šæ.
+€	java:S116"_Rename this field "DateToCompleteString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇ˜ıÿÿÿÿ8Áàéğï.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ó¾Şæï.
 x
 java:S1128"VRemove this unused import 'com.fasterxml.jackson.databind.annotation.JsonDeserialize'.(Úˆ×øÿÿÿÿ8ûèØğï.

@@ -53,7 +53,7 @@ public class FindAndShow extends JFrame {
         setContentPane(new JScrollPane(contents, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
                 JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS));
 
-        // Определяем размер окна и выводим его на экран
+
         setSize(550, 500);
         setVisible(true);
     }

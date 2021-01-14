@@ -1,6 +1,6 @@
 package swingui;
 
-// Использование текстовых полей JTextField
+
 
 import datapattern.Task;
 import enums.Category;
@@ -23,7 +23,7 @@ public class CreateTask extends JFrame {
                        ArrayList<Task> Tasks) {
         super("Создание задачи");
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
-        // Создание текстовых полей
+
         JLabel taskNameLabel = new JLabel("Введите имя задачи:");
         JTextField taskName = new JTextField(50);
 
@@ -108,7 +108,7 @@ public class CreateTask extends JFrame {
             }
         });
 
-        // Создание панели с текстовыми полями
+
         JPanel contents = new JPanel(new VerticalLayout());
         contents.add(taskNameLabel);
         contents.add(taskName);
@@ -127,7 +127,7 @@ public class CreateTask extends JFrame {
 
         setContentPane(new JScrollPane(contents, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
                 JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS));
-        // Определяем размер окна и выводим его на экран
+
         setSize(550, 500);
         setVisible(true);
     }

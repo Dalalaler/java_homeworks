@@ -1,23 +1,23 @@
 
-v
-java:S3252&"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(Ş¶¥ÿ8“•Ôîï.
-
-java:S1319"pThe type of the "Tasks" object should be an interface such as "List" rather than the implementation "ArrayList".(Ï‰íƒ8áÌÁìï.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ï‰íƒ8áÌÁìï.
+{
+java:S3252)"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(öäâÖıÿÿÿÿ8“•Ôîï.
 {
 java:S32525"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(öäâÖıÿÿÿÿ8•ì¶îï.
+}
+java:S32526"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(„™´‡ùÿÿÿÿ8•ì¶îï.
+>
+java:S1604"(Make this anonymous inner class a lambda(Èú†
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ËÏ“ï
 S
 java:S1128"1Remove this unused import 'data.StringInputUtil'.(şê‚üÿÿÿÿÿ8¢îÙìï.
 m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‰íƒ8áÌÁìï.
-L
-java:S3740"/Provide the parametrized type for this generic.(Ï‰íƒ8áÌÁìï.
-}
-java:S32526"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(„™´‡ùÿÿÿÿ8•ì¶îï.
-Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ËÏ“ï
->
-java:S1604"(Make this anonymous inner class a lambda(Èú†
+
+java:S1319"pThe type of the "Tasks" object should be an interface such as "List" rather than the implementation "ArrayList".(Ï‰íƒ8áÌÁìï.
+v
+java:S3252&"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(Ş¶¥ÿ8“•Ôîï.
 }
 java:S3252*"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(„™´‡ùÿÿÿÿ8“•Ôîï.
 }
 java:S3252'"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(„™´‡ùÿÿÿÿ8“•Ôîï.
-{
-java:S3252)"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(öäâÖıÿÿÿÿ8“•Ôîï.

@@ -1,26 +1,40 @@
 
-e
-java:S1854¬"BRemove this useless assignment to local variable "sortedFileName".(‡½íãıÿÿÿÿ8³®ğïï.
 >
-java:S1604["(Make this anonymous inner class a lambda(–—›¿
-E
-java:S1604a"(Make this anonymous inner class a lambda(…ÖĞ’8¶®ìï.
-^	java:S125®"<This block of commented-out lines of code should be removed.(‘ä øÿÿÿÿ8Æº—ñï.
-C
-java:S1604&"(Make this anonymous inner class a lambda(Ø¬ëêÿÿÿÿÿ
-\	java:S899*";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Ñ†²ñï.
-p
-java:S4042*"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Ñ†²ñï.
-C
-java:S1604j"(Make this anonymous inner class a lambda(åÅŞôüÿÿÿÿ
+java:S1604P"(Make this anonymous inner class a lambda(¶ÖÙğ
+Q
+java:S1068"/Remove this unused "fileChooser" private field.(–¹íòüÿÿÿÿ8²¤öï.
+X
+java:S1128"6Remove this unused import 'datasteams.DataStreamUtil'.(şë²ëûÿÿÿÿ8‘çõï.
 >
-java:S1604;"(Make this anonymous inner class a lambda(¶ÖÙğ
+java:S1604p"(Make this anonymous inner class a lambda(–—›¿
+\	java:S899?";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Ñ†²ñï.
+˜
+java:S1130½"uRemove the declaration of thrown exception 'exceptions.DataReadException', as it cannot be thrown from method's body.(ñı‘ûûÿÿÿÿ8®ï„öï.
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ü¡§Ãùÿÿÿÿ
+H
+java:S1068"+Remove this unused "FILTERS" private field.(‡½‡â8½ £öï.
+\
+java:S4973"9Use the "equals" method if value comparison was intended.(›÷¯ûÿÿÿÿ8Š¬õï.
 r
 java:S3008"PRename this field "Tasks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûˆáûÿÿÿÿ8”éãåï.
-V
-java:S1481¬"3Remove this unused "sortedFileName" local variable.(‡½íãıÿÿÿÿ8³®ğïï.
+Q
+java:S3740@"/Provide the parametrized type for this generic.(ê‡¢£ûÿÿÿÿ8Ø×ğï.
+E
+java:S1604v"(Make this anonymous inner class a lambda(…ÖĞ’8¶®ìï.
+j
+java:S3252Œ"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ8Ğä¾öï.
+C
+java:S1604<"(Make this anonymous inner class a lambda(Ø¬ëêÿÿÿÿÿ
 Q
 java:S3740"/Provide the parametrized type for this generic.(ûˆáûÿÿÿÿ8ğ¢âåï.
-Q
-java:S3740+"/Provide the parametrized type for this generic.(ê‡¢£ûÿÿÿÿ8Ø×ğï.
-V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ü¡§Ãùÿÿÿÿ
+B
+java:S3010"%Remove this assignment of "fileName".(ÓŸÒv8“œûõï.
+C
+java:S1604"(Make this anonymous inner class a lambda(åÅŞôüÿÿÿÿ
+n	java:S116"RRename this field "FILTERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡½‡â8¹™õï.
+p
+java:S4042?"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Ñ†²ñï.
+@
+java:S3010""Remove this assignment of "Tasks".(ÌÍšû8“œûõï.
+J
+java:S16041"(Make this anonymous inner class a lambda(Ø¶àİüÿÿÿÿ8§Ûÿôï.

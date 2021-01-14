@@ -1,7 +1,5 @@
 package swingui;
 
-// Пример использования диалоговых окон работы с файлами и директориями
-
 import exceptions.DataReadException;
 
 import javax.swing.*;
@@ -26,13 +24,13 @@ public class JFileChooserTest extends JFrame
 
 
 		fileChooser = new JFileChooser();
-		// Подключение слушателей к кнопкам
+
 		addFileChooserListeners();
-		// Размещение кнопок в интерфейсе
+
 		JPanel contents = new JPanel();
 		contents.add(btnFileFilter);
 		setContentPane(contents);
-		// Вывод окна на экран
+
 		setSize(360, 110);
 		setVisible(true);
 	}
@@ -72,11 +70,11 @@ public class JFileChooserTest extends JFrame
 		});
 
 	}
-	// Фильтр выбора файлов определенного типа
+
 	static class FileFilterExt extends javax.swing.filechooser.FileFilter
 	{
-		String extension  ;  // расширение файла
-		String description;  // описание типа файлов
+		String extension  ;
+		String description;
 
 		FileFilterExt(String extension, String descr)
 		{
@@ -96,7 +94,7 @@ public class JFileChooserTest extends JFrame
 			}
 			return false;
 		}
-		// Функция описания типов файлов
+
 		@Override
 		public String getDescription() {
 			return description;
